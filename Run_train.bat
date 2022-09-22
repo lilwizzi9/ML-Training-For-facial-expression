@@ -1,0 +1,4 @@
+pipenv shell
+
+cd train
+
